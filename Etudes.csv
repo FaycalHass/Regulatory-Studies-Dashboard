@@ -1,0 +1,280 @@
+Study_ID,Dossier_ID,Type_Etude,Statut,Completeness,Deadline,Risk_Level
+S001,D001,Toxicology - Acute Oral,Done,100,2025-03-12,Low
+S002,D001,Toxicology - Dermal,Ongoing,60,2025-04-02,Medium
+S003,D001,Toxicology - Genotoxicity,Ongoing,55,2025-04-18,Medium
+S004,D001,Toxicology - Repeat Dose,Missing,0,2025-06-01,High
+S005,D001,Ecotox - Birds,Ongoing,40,2025-05-10,High
+S006,D001,Ecotox - Fish,Missing,0,2025-05-25,High
+S007,D001,Ecotox - Bees,Ongoing,65,2025-04-30,Medium
+S008,D001,PhysChem - Stability,Ongoing,45,2025-05-15,Medium
+S009,D001,PhysChem - pH,Done,100,2025-03-25,Low
+S010,D001,Environmental Fate - Soil,Done,100,2025-06-10,Low
+S011,D001,Environmental Fate - Water,Ongoing,50,2025-06-20,Medium
+S012,D001,Administrative - Summary,Done,100,2025-03-05,Low
+S013,D001,Administrative - Label,Ongoing,70,2025-04-05,Medium
+
+S014,D002,Toxicology - Acute Oral,Done,100,2025-06-10,Low
+S015,D002,Toxicology - Dermal,Ongoing,50,2025-06-20,Medium
+S016,D002,Toxicology - Genotoxicity,Ongoing,55,2025-07-05,Medium
+S017,D002,Toxicology - Repeat Dose,Missing,0,2025-07-25,High
+S018,D002,Ecotox - Birds,Missing,0,2025-07-01,High
+S019,D002,Ecotox - Fish,Ongoing,45,2025-07-18,High
+S020,D002,Ecotox - Bees,Ongoing,60,2025-06-28,Medium
+S021,D002,PhysChem - Stability,Done,100,2025-07-10,Low
+S022,D002,PhysChem - Solubility,Ongoing,70,2025-07-20,Low
+S023,D002,Environmental Fate - Soil,Ongoing,50,2025-08-01,Medium
+S024,D002,Environmental Fate - Water,Missing,0,2025-08-15,High
+S025,D002,Administrative - Summary,Done,100,2025-06-01,Low
+S026,D002,Administrative - Label,Done,100,2025-06-15,Low
+
+S027,D003,Toxicology - Acute Oral,Done,100,2025-02-20,Low
+S028,D003,Toxicology - Dermal,Ongoing,65,2025-03-05,Medium
+S029,D003,Toxicology - Genotoxicity,Ongoing,55,2025-03-15,Medium
+S030,D003,Toxicology - Repeat Dose,Missing,0,2025-04-01,High
+S031,D003,Ecotox - Birds,Ongoing,40,2025-03-25,High
+S032,D003,Ecotox - Fish,Ongoing,45,2025-04-10,High
+S033,D003,Ecotox - Bees,Missing,0,2025-04-20,High
+S034,D003,PhysChem - Stability,Done,100,2025-03-10,Low
+S035,D003,PhysChem - pH,Done,100,2025-02-28,Low
+S036,D003,Environmental Fate - Soil,Ongoing,50,2025-04-30,Medium
+S037,D003,Environmental Fate - Water,Missing,0,2025-05-15,High
+S038,D003,Administrative - Summary,Done,100,2025-02-10,Low
+S039,D003,Administrative - Label,Done,100,2025-02-18,Low
+
+S040,D004,Toxicology - Acute Oral,Ongoing,55,2025-08-01,Medium
+S041,D004,Toxicology - Dermal,Ongoing,40,2025-08-10,High
+S042,D004,Toxicology - Genotoxicity,Missing,0,2025-09-01,High
+S043,D004,Toxicology - Repeat Dose,Ongoing,35,2025-09-15,High
+S044,D004,Ecotox - Birds,Missing,0,2025-10-01,High
+S045,D004,Ecotox - Fish,Ongoing,25,2025-09-20,High
+S046,D004,Ecotox - Bees,Ongoing,30,2025-09-05,High
+S047,D004,PhysChem - Stability,Done,100,2025-08-20,Low
+S048,D004,PhysChem - pH,Done,100,2025-08-05,Low
+S049,D004,Environmental Fate - Soil,Ongoing,45,2025-10-10,Medium
+S050,D004,Environmental Fate - Water,Missing,0,2025-10-25,High
+S051,D004,Administrative - Summary,Done,100,2025-07-25,Low
+S052,D004,Administrative - Label,Ongoing,60,2025-08-15,Medium
+
+S053,D005,Toxicology - Acute Oral,Done,100,2025-04-12,Low
+S054,D005,Toxicology - Dermal,Done,100,2025-04-25,Low
+S055,D005,Toxicology - Genotoxicity,Ongoing,60,2025-05-05,Medium
+S056,D005,Toxicology - Repeat Dose,Missing,0,2025-05-20,High
+S057,D005,Ecotox - Birds,Ongoing,70,2025-05-15,Medium
+S058,D005,Ecotox - Fish,Done,100,2025-06-01,Low
+S059,D005,Ecotox - Bees,Ongoing,50,2025-05-28,Medium
+S060,D005,PhysChem - Stability,Done,100,2025-04-30,Low
+S061,D005,PhysChem - Solubility,Done,100,2025-05-10,Low
+S062,D005,Environmental Fate - Soil,Done,100,2025-06-10,Low
+S063,D005,Environmental Fate - Water,Ongoing,45,2025-06-20,Medium
+S064,D005,Administrative - Summary,Done,100,2025-04-01,Low
+S065,D005,Administrative - Label,Ongoing,40,2025-06-25,Medium
+
+S066,D006,Toxicology - Acute Oral,Done,100,2025-03-18,Low
+S067,D006,Toxicology - Dermal,Done,100,2025-04-01,Low
+S068,D006,Toxicology - Genotoxicity,Ongoing,55,2025-04-12,Medium
+S069,D006,Toxicology - Repeat Dose,Ongoing,45,2025-05-01,Medium
+S070,D006,Ecotox - Birds,Ongoing,35,2025-05-15,High
+S071,D006,Ecotox - Fish,Missing,0,2025-05-25,High
+S072,D006,Ecotox - Bees,Ongoing,30,2025-05-08,High
+S073,D006,PhysChem - Stability,Ongoing,40,2025-04-25,Medium
+S074,D006,PhysChem - pH,Done,100,2025-03-28,Low
+S075,D006,Environmental Fate - Soil,Ongoing,55,2025-06-05,Medium
+S076,D006,Environmental Fate - Water,Missing,0,2025-06-18,High
+S077,D006,Administrative - Summary,Done,100,2025-03-05,Low
+S078,D006,Administrative - Label,Done,100,2025-03-20,Low
+
+S079,D007,Toxicology - Acute Oral,Ongoing,60,2025-03-22,Medium
+S080,D007,Toxicology - Dermal,Ongoing,50,2025-04-02,Medium
+S081,D007,Toxicology - Genotoxicity,Ongoing,45,2025-04-20,Medium
+S082,D007,Toxicology - Repeat Dose,Missing,0,2025-05-10,High
+S083,D007,Ecotox - Birds,Done,100,2025-03-30,Low
+S084,D007,Ecotox - Fish,Ongoing,55,2025-04-25,Medium
+S085,D007,Ecotox - Bees,Done,100,2025-03-18,Low
+S086,D007,PhysChem - Stability,Ongoing,60,2025-04-28,Medium
+S087,D007,PhysChem - Solubility,Done,100,2025-04-10,Low
+S088,D007,Environmental Fate - Soil,Missing,0,2025-05-20,High
+S089,D007,Environmental Fate - Water,Ongoing,40,2025-05-30,High
+S090,D007,Administrative - Summary,Done,100,2025-03-08,Low
+S091,D007,Administrative - Label,Done,100,2025-03-15,Low
+
+S092,D008,Toxicology - Acute Oral,Done,100,2025-03-10,Low
+S093,D008,Toxicology - Dermal,Ongoing,50,2025-03-22,Medium
+S094,D008,Toxicology - Genotoxicity,Ongoing,55,2025-04-05,Medium
+S095,D008,Toxicology - Repeat Dose,Missing,0,2025-04-25,High
+S096,D008,Ecotox - Birds,Missing,0,2025-04-12,High
+S097,D008,Ecotox - Fish,Ongoing,45,2025-04-20,High
+S098,D008,Ecotox - Bees,Done,100,2025-03-28,Low
+S099,D008,PhysChem - Stability,Done,100,2025-04-02,Low
+S100,D008,PhysChem - pH,Done,100,2025-03-15,Low
+S101,D008,Environmental Fate - Soil,Ongoing,50,2025-04-30,Medium
+S102,D008,Environmental Fate - Water,Missing,0,2025-05-10,High
+S103,D008,Administrative - Summary,Done,100,2025-03-01,Low
+S104,D008,Administrative - Label,Done,100,2025-03-05,Low
+
+S105,D009,Toxicology - Acute Oral,Ongoing,65,2025-05-05,Medium
+S106,D009,Toxicology - Dermal,Ongoing,55,2025-05-15,Medium
+S107,D009,Toxicology - Genotoxicity,Ongoing,45,2025-05-25,Medium
+S108,D009,Toxicology - Repeat Dose,Missing,0,2025-06-05,High
+S109,D009,Ecotox - Birds,Ongoing,40,2025-06-10,High
+S110,D009,Ecotox - Fish,Ongoing,55,2025-05-18,Medium
+S111,D009,Ecotox - Bees,Missing,0,2025-06-20,High
+S112,D009,PhysChem - Stability,Done,100,2025-05-01,Low
+S113,D009,PhysChem - pH,Done,100,2025-04-22,Low
+S114,D009,Environmental Fate - Soil,Ongoing,40,2025-06-25,Medium
+S115,D009,Environmental Fate - Water,Missing,0,2025-07-05,High
+S116,D009,Administrative - Summary,Done,100,2025-04-10,Low
+S117,D009,Administrative - Label,Done,100,2025-04-18,Low
+
+S118,D010,Toxicology - Acute Oral,Ongoing,70,2025-04-25,Medium
+S119,D010,Toxicology - Dermal,Missing,0,2025-04-20,High
+S120,D010,Toxicology - Genotoxicity,Ongoing,50,2025-05-05,Medium
+S121,D010,Toxicology - Repeat Dose,Ongoing,45,2025-05-25,Medium
+S122,D010,Ecotox - Birds,Ongoing,40,2025-05-15,Medium
+S123,D010,Ecotox - Fish,Missing,0,2025-06-01,High
+S124,D010,Ecotox - Bees,Ongoing,35,2025-06-10,High
+S125,D010,PhysChem - Stability,Done,100,2025-04-05,Low
+S126,D010,PhysChem - Solubility,Done,100,2025-04-12,Low
+S127,D010,Environmental Fate - Soil,Ongoing,55,2025-06-20,Medium
+S128,D010,Environmental Fate - Water,Missing,0,2025-07-01,High
+S129,D010,Administrative - Summary,Done,100,2025-03-30,Low
+S130,D010,Administrative - Label,Done,100,2025-04-02,Low
+
+S131,D011,Toxicology - Acute Oral,Done,100,2025-03-12,Low
+S132,D011,Toxicology - Dermal,Done,100,2025-03-22,Low
+S133,D011,Toxicology - Genotoxicity,Done,100,2025-04-01,Low
+S134,D011,Toxicology - Repeat Dose,Ongoing,55,2025-04-20,Medium
+S135,D011,Ecotox - Birds,Missing,0,2025-03-25,High
+S136,D011,Ecotox - Fish,Ongoing,45,2025-04-15,Medium
+S137,D011,Ecotox - Bees,Ongoing,35,2025-04-28,High
+S138,D011,PhysChem - Stability,Done,100,2025-03-05,Low
+S139,D011,PhysChem - pH,Done,100,2025-03-10,Low
+S140,D011,Environmental Fate - Soil,Ongoing,50,2025-05-05,Medium
+S141,D011,Environmental Fate - Water,Missing,0,2025-05-20,High
+S142,D011,Administrative - Summary,Done,100,2025-02-25,Low
+S143,D011,Administrative - Label,Done,100,2025-03-01,Low
+
+S144,D012,Toxicology - Acute Oral,Done,100,2025-06-03,Low
+S145,D012,Toxicology - Dermal,Ongoing,65,2025-06-12,Medium
+S146,D012,Toxicology - Genotoxicity,Ongoing,55,2025-06-20,Medium
+S147,D012,Toxicology - Repeat Dose,Ongoing,45,2025-07-05,Medium
+S148,D012,Ecotox - Birds,Ongoing,40,2025-06-28,Medium
+S149,D012,Ecotox - Fish,Missing,0,2025-07-10,High
+S150,D012,Ecotox - Bees,Ongoing,35,2025-07-18,High
+S151,D012,PhysChem - Stability,Done,100,2025-06-01,Low
+S152,D012,PhysChem - Solubility,Done,100,2025-06-08,Low
+S153,D012,Environmental Fate - Soil,Ongoing,45,2025-07-25,Medium
+S154,D012,Environmental Fate - Water,Missing,0,2025-08-05,High
+S155,D012,Administrative - Summary,Done,100,2025-05-20,Low
+S156,D012,Administrative - Label,Done,100,2025-05-28,Low
+
+S157,D013,Toxicology - Acute Oral,Done,100,2025-02-18,Low
+S158,D013,Toxicology - Dermal,Ongoing,60,2025-03-01,Medium
+S159,D013,Toxicology - Genotoxicity,Ongoing,55,2025-03-12,Medium
+S160,D013,Toxicology - Repeat Dose,Missing,0,2025-03-30,High
+S161,D013,Ecotox - Birds,Ongoing,40,2025-03-25,High
+S162,D013,Ecotox - Fish,Ongoing,45,2025-04-05,Medium
+S163,D013,Ecotox - Bees,Missing,0,2025-04-15,High
+S164,D013,PhysChem - Stability,Done,100,2025-02-28,Low
+S165,D013,PhysChem - pH,Done,100,2025-02-25,Low
+S166,D013,Environmental Fate - Soil,Ongoing,50,2025-04-25,Medium
+S167,D013,Environmental Fate - Water,Missing,0,2025-05-05,High
+S168,D013,Administrative - Summary,Done,100,2025-02-10,Low
+S169,D013,Administrative - Label,Done,100,2025-02-20,Low
+
+S170,D014,Toxicology - Acute Oral,Done,100,2025-03-08,Low
+S171,D014,Toxicology - Dermal,Ongoing,55,2025-03-18,Medium
+S172,D014,Toxicology - Genotoxicity,Ongoing,50,2025-03-28,Medium
+S173,D014,Toxicology - Repeat Dose,Missing,0,2025-04-15,High
+S174,D014,Ecotox - Birds,Missing,0,2025-04-25,High
+S175,D014,Ecotox - Fish,Ongoing,40,2025-05-05,High
+S176,D014,Ecotox - Bees,Ongoing,35,2025-04-30,High
+S177,D014,PhysChem - Stability,Done,100,2025-03-02,Low
+S178,D014,PhysChem - pH,Done,100,2025-03-10,Low
+S179,D014,Environmental Fate - Soil,Ongoing,45,2025-05-20,Medium
+S180,D014,Environmental Fate - Water,Missing,0,2025-06-01,High
+S181,D014,Administrative - Summary,Done,100,2025-02-25,Low
+S182,D014,Administrative - Label,Done,100,2025-03-01,Low
+
+S183,D015,Toxicology - Acute Oral,Done,100,2025-04-05,Low
+S184,D015,Toxicology - Dermal,Done,100,2025-04-15,Low
+S185,D015,Toxicology - Genotoxicity,Ongoing,60,2025-04-28,Medium
+S186,D015,Toxicology - Repeat Dose,Ongoing,50,2025-05-10,Medium
+S187,D015,Ecotox - Birds,Ongoing,45,2025-05-20,Medium
+S188,D015,Ecotox - Fish,Done,100,2025-06-01,Low
+S189,D015,Ecotox - Bees,Ongoing,40,2025-05-28,Medium
+S190,D015,PhysChem - Stability,Done,100,2025-04-01,Low
+S191,D015,PhysChem - Solubility,Done,100,2025-04-10,Low
+S192,D015,Environmental Fate - Soil,Ongoing,55,2025-06-10,Medium
+S193,D015,Environmental Fate - Water,Ongoing,45,2025-06-20,Medium
+S194,D015,Administrative - Summary,Done,100,2025-03-20,Low
+S195,D015,Administrative - Label,Done,100,2025-03-25,Low
+
+S196,D016,Toxicology - Acute Oral,Done,100,2025-03-15,Low
+S197,D016,Toxicology - Dermal,Ongoing,55,2025-03-25,Medium
+S198,D016,Toxicology - Genotoxicity,Ongoing,50,2025-04-05,Medium
+S199,D016,Toxicology - Repeat Dose,Missing,0,2025-04-20,High
+S200,D016,Ecotox - Birds,Ongoing,40,2025-04-30,High
+S201,D016,Ecotox - Fish,Ongoing,45,2025-05-10,Medium
+S202,D016,Ecotox - Bees,Missing,0,2025-05-20,High
+S203,D016,PhysChem - Stability,Done,100,2025-03-05,Low
+S204,D016,PhysChem - pH,Done,100,2025-03-12,Low
+S205,D016,Environmental Fate - Soil,Ongoing,50,2025-05-25,Medium
+S206,D016,Environmental Fate - Water,Missing,0,2025-06-05,High
+S207,D016,Administrative - Summary,Done,100,2025-02-28,Low
+S208,D016,Administrative - Label,Done,100,2025-03-03,Low
+
+S209,D017,Toxicology - Acute Oral,Done,100,2025-02-22,Low
+S210,D017,Toxicology - Dermal,Ongoing,60,2025-03-05,Medium
+S211,D017,Toxicology - Genotoxicity,Ongoing,55,2025-03-15,Medium
+S212,D017,Toxicology - Repeat Dose,Missing,0,2025-04-01,High
+S213,D017,Ecotox - Birds,Ongoing,40,2025-03-25,High
+S214,D017,Ecotox - Fish,Ongoing,45,2025-04-05,Medium
+S215,D017,Ecotox - Bees,Missing,0,2025-04-18,High
+S216,D017,PhysChem - Stability,Done,100,2025-02-28,Low
+S217,D017,PhysChem - pH,Done,100,2025-02-20,Low
+S218,D017,Environmental Fate - Soil,Ongoing,50,2025-04-25,Medium
+S219,D017,Environmental Fate - Water,Missing,0,2025-05-05,High
+S220,D017,Administrative - Summary,Done,100,2025-02-10,Low
+S221,D017,Administrative - Label,Done,100,2025-02-18,Low
+
+S222,D018,Toxicology - Acute Oral,Done,100,2025-06-05,Low
+S223,D018,Toxicology - Dermal,Ongoing,65,2025-06-15,Medium
+S224,D018,Toxicology - Genotoxicity,Ongoing,55,2025-06-25,Medium
+S225,D018,Toxicology - Repeat Dose,Ongoing,45,2025-07-05,Medium
+S226,D018,Ecotox - Birds,Ongoing,40,2025-07-15,Medium
+S227,D018,Ecotox - Fish,Missing,0,2025-07-25,High
+S228,D018,Ecotox - Bees,Ongoing,35,2025-08-01,High
+S229,D018,PhysChem - Stability,Done,100,2025-06-01,Low
+S230,D018,PhysChem - Solubility,Done,100,2025-06-10,Low
+S231,D018,Environmental Fate - Soil,Ongoing,45,2025-08-10,Medium
+S232,D018,Environmental Fate - Water,Missing,0,2025-08-25,High
+S233,D018,Administrative - Summary,Done,100,2025-05-20,Low
+S234,D018,Administrative - Label,Done,100,2025-05-30,Low
+
+S235,D019,Toxicology - Acute Oral,Done,100,2025-03-05,Low
+S236,D019,Toxicology - Dermal,Ongoing,55,2025-03-18,Medium
+S237,D019,Toxicology - Genotoxicity,Ongoing,50,2025-03-28,Medium
+S238,D019,Toxicology - Repeat Dose,Missing,0,2025-04-15,High
+S239,D019,Ecotox - Birds,Missing,0,2025-04-25,High
+S240,D019,Ecotox - Fish,Ongoing,40,2025-05-05,High
+S241,D019,Ecotox - Bees,Ongoing,35,2025-04-30,High
+S242,D019,PhysChem - Stability,Done,100,2025-03-02,Low
+S243,D019,PhysChem - pH,Done,100,2025-03-10,Low
+S244,D019,Environmental Fate - Soil,Ongoing,45,2025-05-20,Medium
+S245,D019,Environmental Fate - Water,Missing,0,2025-06-01,High
+S246,D019,Administrative - Summary,Done,100,2025-02-25,Low
+S247,D019,Administrative - Label,Done,100,2025-03-01,Low
+
+S248,D020,Toxicology - Acute Oral,Done,100,2025-04-08,Low
+S249,D020,Toxicology - Dermal,Done,100,2025-04-18,Low
+S250,D020,Toxicology - Genotoxicity,Ongoing,60,2025-04-28,Medium
+S251,D020,Toxicology - Repeat Dose,Ongoing,50,2025-05-10,Medium
+S252,D020,Ecotox - Birds,Ongoing,45,2025-05-20,Medium
+S253,D020,Ecotox - Fish,Done,100,2025-06-01,Low
+S254,D020,Ecotox - Bees,Ongoing,40,2025-05-28,Medium
+S255,D020,PhysChem - Stability,Done,100,2025-04-01,Low
+S256,D020,PhysChem - Solubility,Done,100,2025-04-10,Low
+S257,D020,Environmental Fate - Soil,Ongoing,55,2025-06-10,Medium
+S258,D020,Environmental Fate - Water,Ongoing,45,2025-06-20,Medium
+S259,D020,Administrative - Summary,Done,100,2025-03-20,Low
+S260,D020,Administrative - Label,Done,100,2025-03-25,Low
