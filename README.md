@@ -83,12 +83,6 @@ Objectif : fournir un zoom détaillé et filtrable sur un dossier précis.
 
 ---
 
-## 📌 **Aperçu du Dashboard**
-
-*(Tu peux ajouter ici une capture d’écran plus tard si tu veux)*
-
----
-
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues !
